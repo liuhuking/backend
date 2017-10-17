@@ -1,5 +1,5 @@
 {
-    "connectionString": "mongodb://localhost:27017",
+    "connectionString": "mongodb://aip2017:password@ds121535.mlab.com:21535",
     "apiUrl": "http://localhost:3000",
     "secret": "THIS IS THE GREAT SECRET. THIS IS THE JSON WEB TOKEN SECRET"
 }
