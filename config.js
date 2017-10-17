@@ -1,5 +1,5 @@
 var mongoose = require('mongoose');
-var dbURI = 'mongodb://localhost:27017';
+var dbURI = 'mongodb://aip2017:password@ds121535.mlab.com:21535/';
 
 mongoose.Promise = global.Promise;
 
